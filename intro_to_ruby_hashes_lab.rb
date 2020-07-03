@@ -51,7 +51,7 @@ def monopoly_with_third_tier
 
         },
         :shortline_railroad => {
-          
+
         }
       }
     }
@@ -83,7 +83,7 @@ def monopoly_with_fourth_tier
 
         },
         :shortline_railroad => {
-          
+
         }
       }
     }
